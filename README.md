@@ -6,7 +6,14 @@
 (Tóm tắt mục tiêu hoặc mục đích của dự án)
 
 ## Cài Đặt
+# Dùng lệnh git clone để sao chép Repository về máy của mình:
+#git clone https://github.com/doankhuong0411/image-proccessing.git
 
-Chạy trên môi trường python
+# ảnh gốc
+![Logo của Dự Án ABC](https://github.com/doankhuong0411/image-proccessing/blob/main/images/fruit-k-5.jpg)
 
-![Logo của Dự Án ABC](https://github.com/doankhuong0411/image-proccessing/blob/main/images/fruit.jpg)
+# Ảnh sau khi xử lý
+![Logo của Dự Án ABC](https://github.com/doankhuong0411/image-proccessing/blob/main/images/fruit-k-30.jpg)
+
+# So sánh kết quả
+![Logo của Dự Án ABC](https://github.com/doankhuong0411/image-proccessing/blob/main/images/compare.jpg)
