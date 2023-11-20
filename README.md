@@ -4,9 +4,9 @@
 ## Mục Đích: GIẢM SỐ LƯỢNG MÀU SẮC
 
 ## Cài Đặt
-Dùng lệnh git clone để sao chép Repository về máy của mình:
-git clone https://github.com/doankhuong0411/image-proccessing.git
-Chạy trên môi trường Python 
+# Dùng lệnh git clone để sao chép Repository về máy của mình:
+# git clone https://github.com/doankhuong0411/image-proccessing.git
+# Cày đặt và chạy trên môi trường Python 
 
 # ảnh gốc
 ![Logo của Dự Án ABC](https://github.com/doankhuong0411/image-proccessing/blob/main/images/fruit.jpg)
