@@ -9,6 +9,4 @@
 
 Chạy trên môi trường python
 
-## Liên Hệ
-
-(Thông tin liên hệ với nhóm phát triển hoặc người quản lý dự án)
+![ẢNH GỐC]([link_ảnh](https://drive.google.com/file/d/1Djz8-Mh_2o2FV32O1NltDp_mFU075mMQ/view?usp=drive_link)https://drive.google.com/file/d/1Djz8-Mh_2o2FV32O1NltDp_mFU075mMQ/view?usp=drive_link)
