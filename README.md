@@ -9,4 +9,4 @@
 
 Chạy trên môi trường python
 
-![Logo của Dự Án ABC](https://example.com/logo.png](https://github.com/doankhuong0411/image-proccessing/blob/main/images/fruit.jpg)https://github.com/doankhuong0411/image-proccessing/blob/main/images/fruit.jpg)
+![Logo của Dự Án ABC](https://github.com/doankhuong0411/image-proccessing/blob/main/images/fruit.jpg)
